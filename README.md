@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vishesh Bangotra / @vishxcodes
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front-End Projects
+- 👨🏻‍💻 Master in JS
+- 🌱 I’m currently learning Node JS
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me - Instagram- @visheshhhhhh.__ / Twitter- @vishxcodes
 - 🌟 I know how to make Programs run
 - 👀 Always looking for work
